@@ -17,6 +17,7 @@ cd ./PMBO
 conda env create -f environment.yml
 conda activate pmbo
 ````
+Additionally, polymer physical feature engineering and properties calculations can be accessed at other GitHub repositories of [APFEforPI](https://github.com/SJTU-MI/APFEforPI) and [RadonPy](https://github.com/RadonPy/RadonPy).
 ## Authors
 
 | **AUTHORS** |Xiang Huang, Shenghong Ju            |
