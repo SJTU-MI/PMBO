@@ -34,7 +34,7 @@ Additionally, polymer physical feature engineering and properties calculations c
 ## Authors
 
 | **AUTHORS** |Xiang Huang, Shenghong Ju            |
-|-------------|--------------------------------------------------|
+|:-------------:|--------------------------------------------------|
 | **VERSION** | V1.0 / July,2023                               |
 | **EMAILS**  | shenghong.ju@sjtu.edu.cn                         |
 | **GROUP HOME**  | https://ju.sjtu.edu.cn/en/                         |
