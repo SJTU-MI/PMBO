@@ -28,7 +28,7 @@ Additionally, polymer physical feature engineering and properties calculations c
 **log.py**: PMBO Logo <br>
 ### Tutorial
 **MBO_tutorial.ipynb**: A case of multi-objective optimization for multifunctional polymers discovery <br>
-**example.csv**:Benchmark dataset for testing (input file <br>
+**example.csv**:Benchmark dataset for testing (input file) <br>
 **cal_data.csv**: MBO recommended polymers and their observed properties (output file) <br>
 **HV.csv**: Optimized convergence curve evaluated by hypervolume (output file) <br>
 ## Authors
